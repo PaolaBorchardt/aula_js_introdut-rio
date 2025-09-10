@@ -35,3 +35,11 @@ console.log("Sobrenome:", sobrenome)
 console.log("Idade:", idade)
 console.log("Altura:", altura)
 console.log("É humano?", ehHumano)
+
+console.log (`Nome: ${nome}`)
+console.log (`Sobrenome: ${sobrenome}`)
+console.log (`Idade: ${idade}`)
+console.log (`Altura: ${altura}`)
+console.log (`É humano: ${ehHumano}`)
+
+console.log (`O nome dela é ${nome} ${sobrenome}, e sua idade é ${idade}, sua altura é ${altura} anos e inclusive é Humana: ${ehHumano}`)
