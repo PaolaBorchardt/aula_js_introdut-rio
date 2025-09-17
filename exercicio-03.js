@@ -17,5 +17,5 @@ function verificarParImpar(numero) {
 }
 
 // Teste a função
-console.log(verificarParImpar(7));  // deve retornar "par"
-console.log(verificarParImpar(6));  // deve retornar "ímpar"
+console.log(verificarParImpar(7));  // deve retornar "ímpar"
+console.log(verificarParImpar(6));  // deve retornar "par"
